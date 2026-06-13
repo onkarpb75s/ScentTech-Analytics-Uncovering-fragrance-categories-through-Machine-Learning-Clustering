@@ -1,0 +1,2 @@
+# ScentTech-Analytics-Uncovering-fragrance-categories-through-Machine-Learning-Clustering
+ScentTech Analytics is a firm operating in the competitive fragrance industry, pointing to leverage data to enhance its market position. The purpose of this project is to support SentTech by analyzing the dataset to found hidden customer and product segments. The primary goal of this analysis is to develop and evaluate.
